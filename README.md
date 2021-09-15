@@ -3,7 +3,7 @@
 ---
 
 # Team Member : 
-## 1. Ananya Bangre 
+ 1. Ananya Bangre 
  2. Akash Sable 
 3. Pratham Loya 
 4. Pramod Dhaygude
