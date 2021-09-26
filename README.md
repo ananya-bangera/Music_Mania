@@ -1,5 +1,5 @@
 # Music_Mania
-Music Player
+Music Player cum Distance Tracker
 # Team Name : 
 ## &lt;Dcode&gt;
 
