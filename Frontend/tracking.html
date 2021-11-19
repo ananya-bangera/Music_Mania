@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+  />
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin=""
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+  />
+  <script
+    src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""
+  ></script>
+  <title>Music Mania</title>
+  <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" type="image/icon" href="img/favicon.ico">
+  <link rel="stylesheet" href="./css/tracker.css" />
+  <link rel="stylesheet" href="./css/button.css" />
+  <link rel="stylesheet" href="./css/overlay.css" />
+
+</head>
+<body>
+   <!-- Header-Start -->
+   <header class="text-gray-200 bg-gray-900 body-font">
+    <!-- Navbar -->
+    <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+      <a class="flex title-font font-medium items-center text-white mb-4 md:mb-0" href="index.html">
+        <!-- Header Icon -->
+        <div id="home" style="height: 30px; width: 30px;">
+          <img src="img/favicon.ico" alt="">
+        </div>
+        <span class="ml-3 text-xl">Music Mania</span>
+      </a>
+      <!-- Navbar Elements -->
+      <nav
+        class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700 flex flex-wrap items-center text-base justify-center">
+        <a class="mr-2.5 hover:text-gray-400" href="index.html">Home</a>
+        <a class="ml-2.5 mr-2.5 hover:text-gray-400" href="html/about.html">About Us</a>
+        <a class="ml-2.5 mr-2.5 hover:text-gray-400" href="html/feedback.html">Feedback</a>
+        <a class="ml-2.5 mr-2.5 hover:text-gray-400" href="html/contact.html">Contact Us</a>
+        <a class="ml-2.5 mr-2.5 hover:text-gray-400" href="tracking.html">Tracker</a>
+
+        <!-- Search -->
+        <!-- <i class="fa fa-search"></i>
+        <input type="text" id="searchbar"
+          class="ml-52 mr-1 w-50 bg-gray-800 rounded border bg-opacity-40 focus:bg-transparent focus:ring-2 focus:ring-indigo-900 focus:border-indigo-500 outline-none text-gray-100 py-1 px-3 transition-colors duration-200 ease-in-out h-8"
+          style="user-select: auto;" placeholder="Search">
+
+        <button
+          class="ml-1 mr-40 inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
+          <a href="">Search</a>
+        </button> -->
+
+
+      </nav>
+
+      <!-- Sign Up Button -->
+      <div id="buttons">
+        <button
+          class="ml-2.5 mr-2.5 inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
+          <a href="html/signup.html">Sign Up</a>
+        </button>
+
+        <!-- Login Button -->
+        <button
+          class="ml-2.5 mr-2.5 inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
+          <a href="html/login.html">Log In</a>
+        </button>
+      </div>
+
+    </div>
+  </header>
+  <div id="tracker"></div>
+  <div class="track-control">
+    <label class="switch">
+      <input type="checkbox" onchange="toggle()" />
+      <span class="slider round"></span>
+    </label>
+  </div>
+  <div class="log-control">
+    <a class="" onclick="openNav()"><i class="fa fa-wrench log"></i></a>
+  </div>
+  <div class="meter-control">
+    <div class="meter-look glow">
+      <span><i class="fa fa-road"></i></span>
+      <span id="distance-box">0.000</span>
+      <span>km</span>
+    </div>
+  </div>
+
+  <div id="myNav" class="overlay">
+    <div class="sticky">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"
+        >&times;</a
+      >
+    </div>
+    <div class="overlay-content">
+      <div id="log-console"></div>
+    </div>
+  </div>
+
+  <script src="./js/config.js"></script>
+  <script src="./js/tracker.js"></script>
+  <script src="./js/overlay.js"></script>
+  <script src="./js/distance.js"></script>
+</body>
