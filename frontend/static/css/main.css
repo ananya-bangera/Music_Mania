@@ -10,8 +10,7 @@ html
     /* font-size: 0.95em; */
 }
 body {
-    /* padding: 20px; */
-    /* font-size: 0.85em; */
+    overflow-x: hidden;
 }
 #search-form, .form-control {
     margin-bottom: 20px;
