@@ -17,12 +17,17 @@
   <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
   
   <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
   <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"> -->
   <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
   <link rel="icon" type="image/icon" href="{{ url_for('static', filename='favicon.ico') }}">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/tracker.css') }}" />
   <link rel="stylesheet" href="{{ url_for('static', filename='css/button.css') }}" />
   <link rel="stylesheet" href="{{ url_for('static', filename='css/overlay.css') }}" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/about.css') }}" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/typewrite.css') }}" />
 </head>
 <body>
   <!-- Header Start -->
@@ -41,30 +46,30 @@
       <nav
         class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700 flex flex-wrap items-center text-base justify-center">
         
-        <a class="mr-2.5 hover:text-gray-400" href="{{ url_for('main.home') }}">Home</a>
+        <a class="mr-2.5 hover:text-gray-400" style="font-size: large;" href="{{ url_for('main.home') }}">Home</a>
 
         {% if title == "About"%}
-          <a class="ml-2.5 mr-2.5 hover:text-gray-200 text-gray-400" href="{{ url_for('main.about') }}">About Us</a>
+          <a class="ml-2.5 mr-2.5 hover:text-gray-200 text-gray-400" style="font-size: large;" href="{{ url_for('main.about') }}">About Us</a>
         {% else %}
-          <a class="ml-2.5 mr-2.5 hover:text-gray-400" href="{{ url_for('main.about') }}">About Us</a>
+          <a class="ml-2.5 mr-2.5 hover:text-gray-400" style="font-size: large;" href="{{ url_for('main.about') }}">About Us</a>
         {% endif %}
 
         {% if title == "Feedback"%}
-          <a class="ml-2.5 mr-2.5 hover:text-gray-200 text-gray-400" href="{{ url_for('main.feedback') }}">Feedback</a>
+          <a class="ml-2.5 mr-2.5 hover:text-gray-200 text-gray-400" style="font-size: large;" href="{{ url_for('main.feedback') }}">Feedback</a>
         {% else %}
-          <a class="ml-2.5 mr-2.5 hover:text-gray-400" href="{{ url_for('main.feedback') }}">Feedback</a>
+          <a class="ml-2.5 mr-2.5 hover:text-gray-400" style="font-size: large;" href="{{ url_for('main.feedback') }}">Feedback</a>
         {% endif %}
 
         {% if title == "Contact Us"%}
-          <a class="ml-2.5 mr-2.5 hover:text-gray-200 text-gray-400" href="{{ url_for('main.contact') }}">Contact Us</a>
+          <a class="ml-2.5 mr-2.5 hover:text-gray-200 text-gray-400" style="font-size: large;" href="{{ url_for('main.contact') }}">Contact Us</a>
         {% else %}
-          <a class="ml-2.5 mr-2.5 hover:text-gray-400" href="{{ url_for('main.contact') }}">Contact Us</a>
+          <a class="ml-2.5 mr-2.5 hover:text-gray-400" style="font-size: large;" href="{{ url_for('main.contact') }}">Contact Us</a>
         {% endif %}
 
         {% if title == "Tracker"%}
-          <a class="ml-2.5 mr-2.5 hover:text-gray-200 text-gray-400" href="{{ url_for('main.tracking') }}">Tracker</a>
+          <a class="ml-2.5 mr-2.5 hover:text-gray-200 text-gray-400" style="font-size: large;" href="{{ url_for('main.tracking') }}">Tracker</a>
         {% else %}
-          <a class="ml-2.5 mr-2.5 hover:text-gray-400" href="{{ url_for('main.tracking') }}">Tracker</a>
+          <a class="ml-2.5 mr-2.5 hover:text-gray-400" style="font-size: large;" href="{{ url_for('main.tracking') }}">Tracker</a>
         {% endif %}
 
         
