@@ -19,7 +19,7 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 * There are all options like(recent played song , playlist,collection ) in it 
 
 * GitHub repo link: [(https://github.com/ananya-bangera/Music_Mania.git)]
-* Drive link: [Drive link here](
+* Drive link: [https://drive.google.com/drive/u/0/folders/1nnR9YUIvYQy22t1vNMwIb-wKFngH_Jl0]
 * Website link: [Website link here] 
 
 ## Technology stack
