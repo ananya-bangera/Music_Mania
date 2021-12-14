@@ -35,7 +35,7 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 - [x] Frontend Work
 - [x] Distance Tracker Api
 - [x] backend code of (Sign-up,login ,register) 
-- [ ] Spotify API
+- [ ] Spotify API( working.....)
 - [ ] some part of responsive design 
 
 
