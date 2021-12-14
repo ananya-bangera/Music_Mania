@@ -15,8 +15,8 @@
 ## Description
 Music Mania is a specially designed web page which assists music player featured with distance measuring system.Music mania is highly prefered to those who loves to listen songs during  jogging ,walking. users also have provided with the instant distance tracker inbuilt in it.
 iterface of the player is user friendly so anyone can easly get ,what they need.As the signup is must,so the  data provide by user also be secure
-It is made by using SPOTIFY API 
-There are all options like(recent played song , playlist,collection ) in it 
+* Songs are fetch by using SPOTIFY API 
+* There are all options like(recent played song , playlist,collection ) in it 
 
 * GitHub repo link: [(https://github.com/ananya-bangera/Music_Mania.git)]
 * Drive link: [Drive link here](
