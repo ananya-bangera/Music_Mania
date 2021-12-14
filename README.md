@@ -14,9 +14,9 @@
 
 ## Description
 Music Mania is specialy design music player for user who loves to listen songs during  jogging ,walking. users also have provided with the distance tracker inbuilt in it.
-also  iterface of the player is user friendly so anyone can easly get ,what they need
+also  iterface of the player is user friendly so anyone can easly get ,what they need.
 It is made by using SPOTIFY API 
-there are all options like(recent played song , playlist,collection ) in it 
+There are all options like(recent played song , playlist,collection ) in it 
 
 * GitHub repo link: [(https://github.com/ananya-bangera/Music_Mania.git)]
 * Drive link: [Drive link here](
@@ -42,12 +42,16 @@ there are all options like(recent played song , playlist,collection ) in it
 
 ## Project Setup
 >Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
+>
 
 ## Usage
->Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
+>To open webpage ,we need to run python file named as (run.py)
+>Then to use link provided in output to open webpage(ctrl+l-click)
 
 ## Applications
->How can your project do its part in solving a real-life problem? What are its possible applications? Describe here.
+>As each and evry person  wants things to happened faster ,they dont want to waste valuable time
+>for in such situation our Music player is time saver for those who dont want to waste time for dowloading different application for tracker or to calculate calories burn
+>
 
 ## Future scope
 >Mention ways in which the project can be improved and built upon in the future.
