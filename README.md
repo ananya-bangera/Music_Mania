@@ -1,4 +1,4 @@
-# MUSIC MANIA
+# Music Mania
 
 ### TEAM NAME : &lt;Dcode&gt;
 
@@ -60,4 +60,4 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 
 ## Screenshots
 
-* Website link: [https://drive.google.com/drive/u/0/folders/1nnR9YUIvYQy22t1vNMwIb-wKFngH_Jl0] 
+* screenshots drive link: [https://drive.google.com/drive/u/0/folders/1nnR9YUIvYQy22t1vNMwIb-wKFngH_Jl0] 
