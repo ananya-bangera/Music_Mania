@@ -55,9 +55,9 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 
 
 ## Future scope
->1]calorie burn counter
->2]To give access of  setting a fix distance(planed distance)
->3]history of disance covered (in graph format )
+* calorie burn counter
+* To give access of  setting a fix distance(planed distance)
+* history of disance covered (in graph format )
 
 ## Screenshots
 Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
