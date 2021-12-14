@@ -40,10 +40,6 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 
 
 
-## Project Setup
->Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
-
-
 ## Usage
 >To open webpage ,we need to run python file named as (run.py)
 >Then to use link provided in output to open webpage(ctrl+l-click)
