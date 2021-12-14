@@ -13,7 +13,10 @@
 * Devayani Shivankar 
 
 ## Description
-Add your project description here. Your project description should cover how your website/app works. That way you can convey what your project is without the need for anyone to view the code. A more detailed readme in your project repository is encouraged, which can include build and use instructions etc.
+Music Mania is specialy design music player for user who loves to listen songs during  jogging ,walking. users also have provided with the distance tracker inbuilt in it.
+also  iterface of the player is user friendly so anyone can easly get ,what they need
+It is made by using SPOTIFY API 
+there are all options like(recent played song , playlist,collection ) in it 
 
 * GitHub repo link: [(https://github.com/ananya-bangera/Music_Mania.git)]
 * Drive link: [Drive link here](
@@ -36,7 +39,6 @@ Add your project description here. Your project description should cover how you
 - [ ] some part of responsive design 
 
 
-List down all the tasks/features for your project and cross out the ones which are completed.
 
 ## Project Setup
 >Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
