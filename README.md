@@ -42,19 +42,19 @@ There are all options like(recent played song , playlist,collection ) in it
 
 ## Project Setup
 >Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
->
+
 
 ## Usage
 >To open webpage ,we need to run python file named as (run.py)
 >Then to use link provided in output to open webpage(ctrl+l-click)
 
 ## Applications
->As each and evry person  wants things to happened faster ,they dont want to waste valuable time
->for in such situation our Music player is time saver for those who dont want to waste time for dowloading different application for tracker or to calculate calories burn
->
+>As each and every person  wants things to happened faster ,they dont want to waste valuable time
+>in such situation our Music player is time saver for those who dont want to waste time for dowloading different application for tracker or to calculate calories burn
+
 
 ## Future scope
->Mention ways in which the project can be improved and built upon in the future.
+>
 
 ## Screenshots
 Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
