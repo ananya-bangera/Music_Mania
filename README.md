@@ -51,7 +51,6 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 ## Applications
 >As each and every person  wants things to happen faster ,and  dont want to waste valuable time
 >in such situation our Music Mania is time saver for those users for dowloading different application for tracker or to calculate calories burned
->
 
 
 ## Future scope
@@ -60,11 +59,5 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 * history of disance covered (in graph format )
 
 ## Screenshots
-Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
 
-You'll have to link the screenshots from your drive folder here.
-
-![Screenshot alt text](https://thecodinglove.com/wp-content/uploads/2019/03/img_0846.jpg "Here is a screenshot")
-
-Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.
-For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
+* Website link: [https://drive.google.com/drive/u/0/folders/1nnR9YUIvYQy22t1vNMwIb-wKFngH_Jl0] 
