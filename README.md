@@ -13,8 +13,8 @@
 * Devayani Shivankar 
 
 ## Description
-Music Mania is specialy design music player for user who loves to listen songs during  jogging ,walking. users also have provided with the distance tracker inbuilt in it.
-also  iterface of the player is user friendly so anyone can easly get ,what they need.
+Music Mania is a specially designed web page which assists music player featured with distance measuring system.user who loves to listen songs during  jogging ,walking. users also have provided with the instant distance tracker inbuilt in it.
+iterface of the player is user friendly so anyone can easly get ,what they need.
 It is made by using SPOTIFY API 
 There are all options like(recent played song , playlist,collection ) in it 
 
@@ -50,7 +50,7 @@ There are all options like(recent played song , playlist,collection ) in it
 
 ## Applications
 >As each and every person  wants things to happened faster ,they dont want to waste valuable time
->in such situation our Music player is time saver for those who dont want to waste time for dowloading different application for tracker or to calculate calories burn
+>in such situation our Music Mania is time saver for those who dont want to waste time for dowloading different application for tracker or to calculate calories burn
 
 
 ## Future scope
