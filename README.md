@@ -15,7 +15,7 @@
 ## Description
 Add your project description here. Your project description should cover how your website/app works. That way you can convey what your project is without the need for anyone to view the code. A more detailed readme in your project repository is encouraged, which can include build and use instructions etc.
 
-* GitHub repo link: [Link to repository](https://github.com/ananya-bangera/Music_Mania.git)
+* GitHub repo link: [(https://github.com/ananya-bangera/Music_Mania.git)]
 * Drive link: [Drive link here](
 * Website link: [Website link here] 
 
