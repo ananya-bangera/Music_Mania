@@ -14,9 +14,9 @@
 
 ## Description
 Music Mania is a specially designed web page which assists music player featured with distance measuring system.Music mania is highly prefered to those who loves to listen songs during  jogging ,walking. users also have provided with the instant distance tracker inbuilt in it.
-iterface of the player is user friendly so anyone can easly get ,what they need.As the signup is must,so the  data provide by user also be secure
+iterface of the player is user friendly so anyone can easly get ,what they need.As the signup is must, the  data provide by user also be secure
 * Songs are fetch by using SPOTIFY API 
-* There are all options like(recent played song , playlist,collection ) in it 
+* There are all options too like(recent played song , playlist,collection ) in it 
 
 * GitHub repo link: [(https://github.com/ananya-bangera/Music_Mania.git)]
 * Drive link: [https://drive.google.com/drive/u/0/folders/1nnR9YUIvYQy22t1vNMwIb-wKFngH_Jl0]
@@ -39,7 +39,6 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 - [ ] some part of responsive design 
 
 
-
 ## Usage
 >To open webpage ,we need to run python file named as (run.py)
 >Then to use link provided in output to open webpage(ctrl+l-click)
@@ -50,7 +49,7 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 
 
 ## Future scope
->for user friendly interface of music player ,
+>for making it more  flexible  ,we are planning to add below fetures in future 
 * calorie burn counter
 * To give access of  setting a fix distance(planed distance)
 * history of disance covered (in graph format )
