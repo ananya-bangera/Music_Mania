@@ -50,6 +50,7 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 
 
 ## Future scope
+>for user friendly interface of music player ,
 * calorie burn counter
 * To give access of  setting a fix distance(planed distance)
 * history of disance covered (in graph format )
