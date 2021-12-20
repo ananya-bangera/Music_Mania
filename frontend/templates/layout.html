@@ -28,6 +28,7 @@
   <link rel="stylesheet" href="{{ url_for('static', filename='css/overlay.css') }}" />
   <link rel="stylesheet" href="{{ url_for('static', filename='css/about.css') }}" />
   <link rel="stylesheet" href="{{ url_for('static', filename='css/typewrite.css') }}" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/scrollbar.css') }}" />
 </head>
 <body>
   <!-- Header Start -->
@@ -46,30 +47,30 @@
       <nav
         class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700 flex flex-wrap items-center text-base justify-center">
         
-        <a class="mr-2.5 hover:text-gray-400" style="font-size: large;" href="{{ url_for('main.home') }}">Home</a>
+        <a class="mr-2.5 hover:text-gray-400" style="font-size: medium;" href="{{ url_for('main.home') }}">Home</a>
 
         {% if title == "About"%}
-          <a class="ml-2.5 mr-2.5 hover:text-gray-200 text-gray-400" style="font-size: large;" href="{{ url_for('main.about') }}">About Us</a>
+          <a class="ml-2.5 mr-2.5 hover:text-gray-200 text-gray-400" style="font-size: medium;" href="{{ url_for('main.about') }}">About Us</a>
         {% else %}
-          <a class="ml-2.5 mr-2.5 hover:text-gray-400" style="font-size: large;" href="{{ url_for('main.about') }}">About Us</a>
+          <a class="ml-2.5 mr-2.5 hover:text-gray-400" style="font-size: medium;" href="{{ url_for('main.about') }}">About Us</a>
         {% endif %}
 
         {% if title == "Feedback"%}
-          <a class="ml-2.5 mr-2.5 hover:text-gray-200 text-gray-400" style="font-size: large;" href="{{ url_for('main.feedback') }}">Feedback</a>
+          <a class="ml-2.5 mr-2.5 hover:text-gray-200 text-gray-400" style="font-size: medium;" href="{{ url_for('main.feedback') }}">Feedback</a>
         {% else %}
-          <a class="ml-2.5 mr-2.5 hover:text-gray-400" style="font-size: large;" href="{{ url_for('main.feedback') }}">Feedback</a>
+          <a class="ml-2.5 mr-2.5 hover:text-gray-400" style="font-size: medium;" href="{{ url_for('main.feedback') }}">Feedback</a>
         {% endif %}
 
         {% if title == "Contact Us"%}
-          <a class="ml-2.5 mr-2.5 hover:text-gray-200 text-gray-400" style="font-size: large;" href="{{ url_for('main.contact') }}">Contact Us</a>
+          <a class="ml-2.5 mr-2.5 hover:text-gray-200 text-gray-400" style="font-size: medium;" href="{{ url_for('main.contact') }}">Contact Us</a>
         {% else %}
-          <a class="ml-2.5 mr-2.5 hover:text-gray-400" style="font-size: large;" href="{{ url_for('main.contact') }}">Contact Us</a>
+          <a class="ml-2.5 mr-2.5 hover:text-gray-400" style="font-size: medium;" href="{{ url_for('main.contact') }}">Contact Us</a>
         {% endif %}
 
         {% if title == "Tracker"%}
-          <a class="ml-2.5 mr-2.5 hover:text-gray-200 text-gray-400" style="font-size: large;" href="{{ url_for('main.tracking') }}">Tracker</a>
+          <a class="ml-2.5 mr-2.5 hover:text-gray-200 text-gray-400" style="font-size: medium;" href="{{ url_for('main.tracking') }}">Tracker</a>
         {% else %}
-          <a class="ml-2.5 mr-2.5 hover:text-gray-400" style="font-size: large;" href="{{ url_for('main.tracking') }}">Tracker</a>
+          <a class="ml-2.5 mr-2.5 hover:text-gray-400" style="font-size: medium;" href="{{ url_for('main.tracking') }}">Tracker</a>
         {% endif %}
 
         
