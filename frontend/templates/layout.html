@@ -8,7 +8,10 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
   <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
-    <!-- Bootstrap CSS -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+  <!-- Bootstrap CSS -->
     {% if title %}
         <title>Music Mania - {{ title }}</title>
     {% else %}
@@ -41,7 +44,7 @@
         <div id="home" style="height: 30px; width: 30px;">
           <img src="{{ url_for('static', filename='favicon.ico') }}" alt="logo">
         </div>
-        <span class="ml-3 text-xl">Music Mania</span>
+        <span id="mmf" class="ml-3 text-xl">Music Mania</span>
       </a>
       <!-- Navbar Elements -->
       <nav
@@ -156,7 +159,7 @@
         <div id="home" style="height: 30px; width: 30px;">
           <img src="{{ url_for('static', filename='favicon.ico') }}" alt="logo">
         </div>
-        <span class="ml-3 text-xl" style="user-select: auto;">Music Mania</span>
+        <span id="mmf1" class="ml-3 text-xl" style="user-select: auto;">Music Mania</span>
       </a>
       <p class="text-sm text-gray-400 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-800 sm:py-2 sm:mt-0 mt-4"
         style="user-select: auto;">© 2020 Music Mania
@@ -167,7 +170,7 @@
       <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start" style="user-select: auto;">
 
         <!-- Facebook -->
-        <a class="text-gray-400" style="user-select: auto;" href="https://www.facebook.com/" target="_blank">
+        <a id="fbb" class="text-gray-400" style="user-select: auto;" href="https://www.facebook.com/" target="_blank">
           <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5"
             viewBox="0 0 24 24" style="user-select: auto;">
             <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z" style="user-select: auto;"></path>
@@ -175,7 +178,7 @@
         </a>
 
         <!-- Twitter -->
-        <a class="ml-3 text-gray-400" style="user-select: auto;" href="https://twitter.com/explore" target="_blank">
+        <a  id="tww" class="ml-3 text-gray-400" style="user-select: auto;" href="https://twitter.com/explore" target="_blank">
           <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5"
             viewBox="0 0 24 24" style="user-select: auto;">
             <path
@@ -185,7 +188,7 @@
         </a>
 
         <!-- Instagram -->
-        <a class="ml-3 text-gray-400" style="user-select: auto;" href="https://www.instagram.com/" target="_blank">
+        <a id="inst"class="ml-3 text-gray-400" style="user-select: auto;" href="https://www.instagram.com/" target="_blank">
           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
             class="w-5 h-5" viewBox="0 0 24 24" style="user-select: auto;">
             <rect width="20" height="20" x="2" y="2" rx="5" ry="5" style="user-select: auto;"></rect>
@@ -194,7 +197,7 @@
         </a>
 
         <!-- LinkedIn -->
-        <a class="ml-3 text-gray-400" style="user-select: auto;" href="https://in.linkedin.com/" target="_blank">
+        <a id="linkdl" class="ml-3 text-gray-400" style="user-select: auto;" href="https://in.linkedin.com/" target="_blank">
           <svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0"
             class="w-5 h-5" viewBox="0 0 24 24" style="user-select: auto;">
             <path stroke="none" d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"
