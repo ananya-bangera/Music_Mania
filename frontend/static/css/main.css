@@ -55,3 +55,7 @@ color: #00acee;
 #linkdl:hover{
     color: #0e76a8;
 }
+
+html{
+    scroll-behavior: smooth;
+}
