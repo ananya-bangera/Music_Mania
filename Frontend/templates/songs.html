@@ -1,0 +1,32 @@
+{% extends "layout.html" %}
+{% block content %}
+
+
+
+<!-- Hit List - Start -->
+<div>
+    <section class="text-gray-400 bg-gray-900 body-font" style="user-select: auto">
+        <div class="container px-5 py-12 mx-auto" style="user-select: auto">
+            <div class="py-1 flex flex-wrap text-center" style="user-select: auto">
+                {% for song in info_req %}
+                <div class="lg:w-1/6 md:w-1/3 p-4 w-full" style="user-select: auto" data-aos="fade-right"  data-aos-once="true"  data-aos-easing="ease-in-out" data-aos-offset="300"   data-aos-delay="0"   data-aos-duration="3000">
+                    <a class="block relative h-48 rounded overflow-hidden" style="user-select: auto">
+                        <img alt="ecommerce" class="object-cover object-center w-full h-full blo rounded-3xl"
+                            src="{{song[1]}}" style="user-select: auto" />
+                    </a>
+                    <div class="mt-1" style="user-select: auto">
+                        <h2 class="text-white title-font text-lg font-medium" style="user-select: auto">
+                            <a href="{{song[2]}}">{{song[0]}}</a>
+                        </h2>
+                    </div>
+                </div>
+                {% endfor %}    
+        </div>
+    </section>
+</div>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
+<!-- Hit List - End -->
+{% endblock content %}
