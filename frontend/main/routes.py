@@ -47,6 +47,10 @@ def info(data):
 def about():
     return render_template('about.html', title='About')
 
+@main.route("/media_player")
+def media_player():
+    return render_template('media_player.html', title='About')
+
 @main.route("/contact")
 def contact():
     return render_template('contact.html', title='Contact Us')
