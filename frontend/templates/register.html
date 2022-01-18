@@ -5,8 +5,8 @@
             <div class="content-section items-center">
                 <form method="POST" action="" class=" px-10 py-10 flex flex-wrap -m-2 grid place-items-center">
                     {{ form.hidden_tag() }}
-                    <fieldset class="form-group flex flex-wrap -m-2"><!-- w-full -->
-                        <legend class="text-center sm:text-3xl text-2xl font-medium title-font mb-4 text-white">Join Today</legend>
+                    <legend data-aos="zoom-in-down" data-aos-offset="200"    data-aos-delay="0"   data-aos-duration="1700" class="text-center sm:text-3xl text-2xl font-medium title-font mb-4 text-white">Join Today</legend>
+                    <fieldset data-aos="fade-down" data-aos-once="true" data-aos-easing="ease-in-out" data-aos-offset="200"   data-aos-delay="0"   data-aos-duration="1000" data-aos-offset="200"   data-aos-delay="0"   data-aos-duration="2000" class="form-group flex flex-wrap -m-2"><!-- w-full -->
                         <!-- <div class="items-center"> -->
                         <div class="form-group inline-block p-3 w-1/2">
                             <!-- {{ form.username.label(class="form-control-label") }} -->
@@ -64,20 +64,18 @@
                             {% endif %}
                         </div>
                     </fieldset>
-                    <div class="form-group">
+                    <div data-aos="fade-down" data-aos-once="true" data-aos-easing="ease-in-out" data-aos-offset="200"   data-aos-delay="0"   data-aos-duration="1000" data-aos-offset="200"   data-aos-delay="0"   data-aos-duration="2000" class="border-top pt-3 pb-3">
+                        <small class="text-muted">
+                            Already Have An Account? <a class="ml-2" href="{{ url_for('users.login') }}">Sign In</a>
+                        </small>
+                    </div>
+                    <div data-aos="fade-down" data-aos-once="true" data-aos-easing="ease-in-out" data-aos-offset="200"   data-aos-delay="0"   data-aos-duration="1000" data-aos-offset="200"   data-aos-delay="0"   data-aos-duration="2000" class="form-group">
                         {{ form.submit(class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg") }}
                     </div>
                 </form>
                 
             </div>
-            <!-- <div class="inline-block fixed right-0">
-                hii
-            </div> -->
-            <div class="border-top pt-3">
-                <small class="text-muted">
-                    Already Have An Account? <a class="ml-2" href="{{ url_for('users.login') }}">Sign In</a>
-                </small>
-            </div>
+         
 
         </div>
         

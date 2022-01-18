@@ -341,4 +341,11 @@ html{
 	color: #0e9fff;
   }
 
+/* hover effect for  albums */
+#hvr_eff:hover{
+    opacity: 0.3 !important;
+}
+#hvr_eff1:hover{
+    opacity: 0.3 !important;
+}
 
