@@ -1,6 +1,12 @@
+// let allMusic =  eel.musiclist()(function(ret){console.log(ret)});
+const article = document.querySelector('#song-detail-imp');
+// const maindoc = document.querySelector('#details-songs');
+// const maindoc2 = document.querySelector('.body-of-mediaplayer-2');
 
-// Add Tags And Elements
-
+// console.log(article.dataset.datainfo);
+// console.log(article.dataset.newlistart);
+// console.log(article.dataset.newlistimg);
+// console.log(article.dataset.newlistsrc);
 const container = document.querySelector(".container-media-player-new"),
     musicImg = container.querySelector(".img-area img"),
     musicName = container.querySelector(".song-details .name"),
@@ -15,6 +21,12 @@ const container = document.querySelector(".container-media-player-new"),
     moreMusicBtn = container.querySelector("#more-music"),
     closemoreMusic = container.querySelector("#close");
 
+    
+    // article.dataset.val;
+    // article.dataset.song;
+    // article.dataset.album_name;
+    
+    
 
 
 let musicIndex = Math.floor((Math.random() * allMusic.length) + 1);
@@ -27,10 +39,11 @@ window.addEventListener("load", () => {
 // load music function
 
 function loadMusic(indexNumb) {
-    musicName.innerText = allMusic[indexNumb - 1].name;
-    musicArtist.innerText = allMusic[indexNumb - 1].artist;
-    musicImg.src = `images/${allMusic[indexNumb - 1].img}.jpg`;
-    mainAudio.src = `songs/${allMusic[indexNumb - 1].src}.mp3`;
+    // musicName.innerText = article.dataset.examlpe[0];
+    musicName.innerText = article.dataset.newlistname;
+    musicArtist.innerText = article.dataset.newlistart;
+    musicImg.src = article.dataset.newlistimg;
+    mainAudio.src = article.dataset.newlistsrc;
 }
 
 

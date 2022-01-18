@@ -1,4 +1,8 @@
-let allMusic = [
+// import music-songs.py;
+// python.ex`import music-songs.py`;
+// python.ex`from music-songs.py import allMusic as allMusic`;
+
+let allMusic =[
 
     {
         name: "Hoor",
