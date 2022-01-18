@@ -49,7 +49,11 @@ def info(data):
             if res['name'] is not None:
                 if res['album']['images'][0]['url'] is not None:
                     info_songs.append([res['name'],res['album']['images'][0]['url'],res['preview_url'],iter_song,n])
+<<<<<<< HEAD
         iter_song=iter_song+1
+=======
+                    iter_song=iter_song+1
+>>>>>>> 8c6bfd496dbc597e5738da484d56015a2ff13f1f
     return info_songs
 
 @main.route("/about")
