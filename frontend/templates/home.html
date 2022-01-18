@@ -20,17 +20,19 @@
                     Let music flow in your heart and enrich your soul. Let the Music Speak!
                     <br> Life is a song, love is the music.
                 </p>
-                <div class="flex w-full md:justify-start justify-center items-end" style="user-select: auto;">
+                <div class="flex w-full md:justify-start justify-center items-stretch lg:grid-cols-2" style="user-select: auto;">
                     <form action="{{ url_for('main.searchbar')}}" method="post">
-                    <div class="relative mr-4 lg:w-full xl:w-1/2 w-2/4" style="user-select: auto;">
+                    <span class=" relative mr-4 lg:w-3/4 xl:w-1/2 w-2/4" style="user-select: auto;">
                         <input type="text" id="search-bar_id" name="search-bar-ani"
-                            class="w-full bg-gray-800 rounded border bg-opacity-40 border-gray-700 focus:ring-2 focus:ring-indigo-900 focus:bg-transparent focus:border-indigo-500 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+                            class="w-full bg-gray-800 rounded border bg-opacity-40 border-gray-700 focus:ring-2 focus:ring-indigo-900 focus:bg-transparent focus:border-indigo-500 text-base outline-none text-gray-100 py-1 px-1 leading-8 transition-colors duration-200 ease-in-out"
                             placeholder="Search" style="user-select: auto;">
-                    </div>
-                    </form>
-                    <button
-                        class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
+                    </span>
+                    <button action="{{ url_for('main.searchbar')}}" method="post" 
+                        class="inline-flex lg:w-1/4 text-white bg-indigo-500 border-0 py-2 px-4 focus:outline-none hover:bg-indigo-600 rounded text-lg"
                         style="user-select: auto;">Search</button>
+                    </form>
+                    
+                    
                 </div>
                 <!-- <p class="text-sm mt-2 text-gray-500 mb-8 w-full" style="user-select: auto;">Neutra shabby chic ramps, viral fixie.</p> -->
             </div>
