@@ -1,19 +1,19 @@
 {% extends "layout.html" %}
 {% block content %}
-    <section class="text-gray-400 bg-gray-900 body-font relative" style="user-select: auto;">
+    <section class="text-gray-400 bg-gray-900 body-font relative" style="user-select: auto;"  data-aos="fade-down" data-aos-once="true" data-aos-easing="ease-in-out" data-aos-offset="200"   data-aos-delay="0"   data-aos-duration="1000" data-aos-offset="200"   data-aos-delay="0"   data-aos-duration="2000">
         <div class="container px-5 py-5 mx-auto justify-center" style="user-select: auto;">
             <div class="content-section items-center">
                 <form method="POST" action="">
                     {{ form.hidden_tag() }}
-                    <fieldset class="form-group -m-2 grid place-items-center">
+                    <fieldset class="form-group -m-2 grid place-items-center" style="margin-top: 3rem;">
                         <div>
                             {% for message in get_flashed_messages(with_categories, category) %}
                                 {% if category == "success" %}
                                     <p class="alert alert-{{ category }}"> "hello"+{{message}}</p>
                                 {% endif %}
                             {% endfor %}
-                        </div>
-                        <legend class="text-center sm:text-3xl text-2xl font-medium title-font mb-4 text-white">Log In</legend>
+                        </div >
+                        <legend data-aos="zoom-in-down" data-aos-offset="200"    data-aos-delay="0"   data-aos-duration="1700" class="text-center sm:text-3xl text-2xl font-medium title-font mb-4 text-white">Log In</legend>
                         <div class="form-group p-3 w-1/2">
                             {{ form.email.label(class="form-control-label") }}
                             {% if form.email.errors %}
@@ -40,24 +40,29 @@
                                 {{ form.password(placeholder=" Password" ,class="form-control form-control-lg px-5 w-full bg-gray-800 bg-opacity-40 rounded border border-gray-700 focus:border-indigo-500 focus:bg-gray-900 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out") }}
                             {% endif %}
                         </div>
+                        <div class="border-top pt-3">
+                            <small style="font-size: smaller;" class="text-muted lg:w-2/3 mx-auto leading-relaxed text-base">
+                                Need An Account? <a class="ml-2 " href="{{ url_for('users.register') }}" style="font-size: smaller;">Sign Up Now</a>
+                            </small>
+                        </div>
+                        <div class="form-group">
+                            <small class="text-muted ml-2 lg:w-2/3 mx-auto leading-relaxed text-base">
+                                <a href="{{ url_for('users.reset_request') }}" style="font-size: smaller;" >Forgot Password?</a>
+                            </small>
+                        </div>
                         <div class="form-check p-3 m-2">
                             {{ form.remember(class="form-check-input") }}
                             {{ form.remember.label(class="form-check-label lg:w-2/3 mx-auto leading-relaxed text-base") }}
                         </div>
+                        <div class="form-group">
+                          
+                            {{ form.submit(class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg ") }}
+                        </div>
                     </fieldset>
-                    <div class="form-group">
-                        {{ form.submit(class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg ") }}
-                        <small class="text-muted ml-2 lg:w-2/3 mx-auto leading-relaxed text-base">
-                            <a href="{{ url_for('users.reset_request') }}">Forgot Password?</a>
-                        </small>
-                    </div>
+                    
                 </form>
             </div>
-            <div class="border-top pt-3">
-                <small class="text-muted lg:w-2/3 mx-auto leading-relaxed text-base">
-                    Need An Account? <a class="ml-2 " href="{{ url_for('users.register') }}">Sign Up Now</a>
-                </small>
-            </div>
+           
         </div>
     </section>
 {% endblock content %}
