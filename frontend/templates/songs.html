@@ -4,6 +4,7 @@
 
 
 <!-- Hit List - Start -->
+<h2 id="animate">Loading</h2>
 <div class="Main-doc">
     <section class="text-gray-400 bg-gray-900 body-font" style="user-select: auto">
         <div class="container px-5 py-12 mx-auto" style="user-select: auto">
@@ -32,6 +33,15 @@
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script>
     AOS.init();
+</script>
+<script>
+    var loader =document.getElementById("animate");
+    var ht =document.getElementById("body")
+    window.addEventListener("load",function () {
+        loader.style.display="none";
+        ht.style.overflow="auto";
+        
+    })
 </script>
 <!-- Hit List - End -->
 {% endblock content %}
