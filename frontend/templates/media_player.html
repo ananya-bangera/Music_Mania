@@ -1,7 +1,7 @@
 {% extends "layout.html" %}
 {% block content %}
 <!-- Hit List - Start -->
-
+<h2 id="animate">Loading</h2>
 <div class="grid justify-items-center">
   <article
   id="song-detail-imp"
@@ -68,6 +68,14 @@
   </article>
 </div>
 
-
+<script>
+  var loader =document.getElementById("animate");
+  var ht =document.getElementById("body")
+  window.addEventListener("load",function () {
+      loader.style.display="none";
+      ht.style.overflow="auto";
+      
+  })
+</script>
 <!-- Hit List - End -->
 {% endblock content %}

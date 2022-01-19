@@ -1,3 +1,4 @@
+from asyncio.windows_events import NULL
 from flask import render_template, request, Blueprint
 from frontend.models import Post
 import spotipy
@@ -29,6 +30,8 @@ def home():
 def searchbar():
     if request.method == "POST":
        data = request.form.get("search-bar-ani")
+       if data == NULL or data==" " or data == "":
+           return redirect(url_for('main.home'))
        info_req = info(data)
        return render_template("songs.html",info_req=info_req,data=data,i=0)
     return render_template("home.html")
