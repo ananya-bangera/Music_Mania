@@ -1,0 +1,81 @@
+{% extends "layout.html" %}
+{% block content %}
+<!-- Hit List - Start -->
+<h2 id="animate">Loading..</h2>
+<div class="grid justify-items-center">
+  <article
+  id="song-detail-imp"
+  data-newlistname="{{allMusic[songNum]['name']}}"
+  data-newlistart="{{allMusic[songNum]['artist']}}"
+  data-newlistimg="{{allMusic[songNum]['img']}}"
+  data-newlistsrc="{{allMusic[songNum]['src']}}">
+
+    <div class="body-of-mediaplayer">
+        <div class="container-media-player-new">
+
+            <div class="top-bar">
+              <i class="material-icons">favorite_border</i>
+              <span>Now Playing</span>
+              <i class="material-icons">add</i>
+            </div>
+            <div class="img-area">
+              <img src="" alt="">
+            </div>
+            <div class="song-details">
+              <p class="name"></p>
+              <p class="artist"></p>
+            </div>
+        
+            <div class="progress-area">
+        
+              <div class="progress-bar">
+                <audio id="main-audio" src=""></audio>
+              </div>
+              <div class="song-timer">
+                <span class="current-time">0:00</span>
+                <span class="max-duration">0:00</span>
+              </div>
+              <audio id="main-audio" src=""></audio>
+            </div>
+        
+            <div class="controls">
+              <i id="repeat-plist" class="material-icons" title="Playlist looped">repeat</i>
+              <i id="prev" class="material-icons prev">fast_rewind</i>
+              <div class="play-pause">
+                <i class="material-icons play">play_arrow</i>
+              </div>
+              <i id="next" class="material-icons next">fast_forward</i>
+              <i id="more-music" class="material-icons">queue_music</i>
+            </div>
+        
+            <div class="music-list">
+              <div class="header">
+                <div class="row">
+                  <i class="list material-icons">queue_music</i>
+                  <span>Music List</span>
+                </div>
+                <i id="close" class="material-icons">close</i>
+              </div>
+              <ul>
+               
+              </ul>
+            </div>
+        
+        
+          </div>
+          
+    </div>
+  </article>
+</div>
+
+<script>
+  var loader =document.getElementById("animate");
+  var ht =document.getElementById("body")
+  window.addEventListener("load",function () {
+      loader.style.display="none";
+      ht.style.overflow="auto";
+      
+  })
+</script>
+<!-- Hit List - End -->
+{% endblock content %}

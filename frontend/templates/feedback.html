@@ -1,0 +1,44 @@
+{% extends "layout.html" %}
+{% block content %}
+
+    <div id="contdiv77" data-aos="fade-down" data-aos-offset="0"    data-aos-delay="0"   data-aos-duration="1700" >
+        <div id="inner-div77" >
+            <h1 id="rateH1">RATE US !</h1>
+            <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-xs" style="color: rgb(97, 89, 89);">Your feedback help us to improve.</p>
+
+            <div id="spandiv77">
+                <span class="spanCl" style="float: left; margin-left: 40px;" >
+                    <img class="emoji-img77" id="emo1" src="{{ url_for('static', filename='2.png') }}" alt="">
+                </span>
+                <span class="spanCl" style="float: left; margin-left: 40px;">
+                    <img class = "emoji-img77" id="emo2" src="{{ url_for('static', filename='4.png') }}" alt="">
+                </span>
+                <span class="spanCl" style="float: left; margin-left: 40px;">
+                    <img id="emo3" class = "emoji-img77" src="{{ url_for('static', filename='6.png') }}" alt="">
+                </span>
+                <span class="spanCl" style="float: left; margin-left: 40px;">
+                    <img id="emo4" class="emoji-img77" src="{{ url_for('static', filename='8.png') }}" alt="">
+                </span>
+                <span class="spanCl" style="float: left; margin-left: 40px;"> 
+                    <img id="emo5" class="emoji-img77" src="{{ url_for('static', filename='10.png') }}" alt="">
+                </span>
+            </div>
+            <div id="divtext77">
+                <textarea name="" id="txtarea77" cols="13" rows="5"  placeholder="Comments....."></textarea>
+            </div>
+            <br>
+            <div id="subdiv77">
+                <button id="btn77" type="submit">Submit</button>
+            </div>
+           
+
+        </div>
+    </div>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+  
+{% endblock content %}
+
+
