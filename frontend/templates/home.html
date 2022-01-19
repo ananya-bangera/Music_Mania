@@ -1,7 +1,6 @@
 {% extends "layout.html" %}
 {% block content %}
 <!-- Searchbar-Start -->
-<h2 id="animate">Loading</h2>
 <div id="body">
     <section class="z-10 ml-15 text-gray-400 bg-gray-900 body-font" style="user-select: auto;">
         <div class="container mx-auto flex py-16 px-5 md:flex-row flex-col items-center" style="user-select: auto; padding-left:58px;">
@@ -81,15 +80,6 @@
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script>
     AOS.init();
-</script>
-<script>
-    var loader =document.getElementById("animate");
-    var ht =document.getElementById("body")
-    window.addEventListener("load",function () {
-        loader.style.display="none";
-        ht.style.overflow="auto";
-        
-    })
 </script>
 <!-- Hit List - End -->
 {% endblock content %}
