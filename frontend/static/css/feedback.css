@@ -1,0 +1,130 @@
+
+.emoji-img77:hover {
+    cursor: pointer;
+    border: 45px rgb(255, 255, 255);
+    border-radius: 50%;
+    transform: scale(1.5) translatey(-10px);
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+}
+
+
+
+/* to added by js */
+.classnew {
+    transform: scale(1.5);
+    border-radius: 50%;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+body {
+    background-color: #111827;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+#contdiv77 {
+    /* height: 100vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 0px; */
+    margin-top: 20px;
+}
+
+#inner-div77 {
+    /* display: flex; */
+    justify-content: center;
+    width: 470px;
+    height: 550px;
+    padding: 0px;
+    border: 1px solid rgba(59, 130, 246, 0.5)  ;
+    border-radius: 20px;
+    text-align: center;
+}
+hr{
+   background-color:rgba(59, 130, 246, 0.5) ;
+   opacity: 1;
+}
+
+.spanCL {
+    padding: 10px;
+    margin: 12px;
+    margin-top: 16px;
+    height: auto;
+    align-items: center;
+}
+
+textarea {
+    background-color: #1F293766;
+    margin-top: 30px;
+    border-radius: 4px;
+    color: white;
+    width: 389px;
+    padding: 10px;
+    
+    height: 240px;
+
+  
+
+}
+
+#txtarea77:focus {
+    border: 2px solid rgba(59, 130, 246, 0.5);
+    outline-style: none;
+    outline-color: #4F46E5;
+    opacity: 1;
+    background-color: #111827;
+    outline-style: outset;
+}
+
+#divtext77 {
+    /* margin-top: 20px; */
+    padding: 10px;
+}
+
+#spandiv77 {
+    margin-top: 30px;
+    padding: 10px;
+    text-align: center;
+    /* margin-top: 20px; */
+   
+}
+
+#rateH1{
+    text-align: center;
+    color: white;
+    font-size: 28px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-bottom: 10px;
+   
+}
+
+#btn77{
+    padding: 10px 20px;
+    
+    color: white;
+    background-color: rgba(99, 102, 241, 1);
+    border-radius: 3px;
+    border: 0px;
+    margin-top: -30px;
+}
+
+
+
+#btn77:hover {
+    background-color: #4F46E5;
+    cursor: pointer;
+}
+
+#subdiv77 {
+    text-align: center;
+
+}
+.emoji-img77{
+    width: 40px;
+    height: 40px;
+}
+
