@@ -66,8 +66,8 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
      <td><b> Top Artists </b></td>
   </tr>
   <tr>
-    <td><img src = "images/HomePage.png" width = 500></td>
-    <td><img src = "images/TopArtists.png" width = 500></td>
+    <td><img src = "images/HomePage.png" width = 700></td>
+    <td><img src = "images/TopArtists.png" width = 700></td>
   </tr>
  </table>
  <br>
