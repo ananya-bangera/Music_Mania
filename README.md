@@ -24,7 +24,7 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 
 ## Technology stack
 
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="31px" height="31px"></a>
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="31px" height="31px" ></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="31px" height="31px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="31px" height="31px"></a>
 <a href="https://tailwindcss.com/" title="Tailwind"><img src="https://github.com/get-icon/geticon/blob/master/icons/tailwindcss-icon.svg" alt="Tailwind" width="31px" height="31px"></a>
@@ -33,13 +33,17 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 
 
 ## Project Setup
-1. abc
-2. 
+
+- [x] Frontend Work
+- [x] Distance Tracker Api
+- [x] backend code of (Sign-up,login ,register) 
+- [ ] Spotify API( working.....)
+- [ ] some part of responsive design 
 
 
 ## Usage
 >To open webpage ,we need to run python file named as (run.py)
->Then to use link provided in output to open webpage(ctrl+click)
+>Then to use link provided in output to open webpage(ctrl+l-click)
 
 ## Applications
 >As each and every person  wants things to happen faster ,and  dont want to waste valuable time
