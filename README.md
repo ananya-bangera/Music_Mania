@@ -20,15 +20,15 @@
 * Devayani Shivankar 
 
 ## 📝Description
-Music Mania is a specially designed web page that assists music players featured with a distance measuring system.
-Music mania is highly preferred to those who love to listen to songs during jogging walking.
-Users also have provided the instant distance tracker inbuilt in it. The player's interface is user-friendly, so anyone can quickly get what they need. 
+* Music Mania is a specially designed web page that assists music players featured with a distance measuring system.
+* Music mania is highly preferred to those who love to listen to songs during jogging walking.
+* Users also have provided the instant distance tracker inbuilt in it. The player's interface is user-friendly, so anyone can quickly get what they need. 
 * Songs are fetch by using SPOTIFY API 
 
 ## 🔗Links
 * GitHub repo link: [(https://github.com/ananya-bangera/Music_Mania.git)]
 * Drive link: [https://drive.google.com/drive/folders/1YKGWJasp8ExKkRY1fe2elq5lsvGCJt70?usp=sharing]
-* Website link: [Website link here] 
+<!-- * Website link: [Website link here]  -->
 
 ## 🤖Tech-Stack
 
@@ -50,9 +50,9 @@ Users also have provided the instant distance tracker inbuilt in it. The player'
 
 
 ## 🔧 Usage
->Refer to requirements.txt for all the python module need to execute the website
->To open the webpage, run the run.py python file.
-Then hold the ctrl key and click on the link given in the output to open the webpage
+* Refer to <a href="https://github.com/ananya-bangera/Music_Mania/blob/main/requirements.txt">requirements.txt</a> for all the python module need to execute the website.
+* To open the webpage, run the run.py python file.
+* Then hold the ctrl key and click on the link given in the output to open the webpage
 
 ## ⚙️ Applications
 >As each and every person  wants things to happen faster ,and  dont want to waste valuable time
