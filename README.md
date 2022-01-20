@@ -41,28 +41,17 @@
 
 
 ## 🖥️ Project Setup
-
-- [x] Frontend Work
-- [x] Distance Tracker Api
-- [x] backend code of (Sign-up,login ,register) 
-- [ ] Spotify API( working.....)
-- [ ] some part of responsive design 
-
+* Refer to <a href="https://github.com/ananya-bangera/Music_Mania/blob/main/requirements.txt">requirements.txt</a> for all the python module need to execute the website.
 
 ## 🔧 Usage
-* Refer to <a href="https://github.com/ananya-bangera/Music_Mania/blob/main/requirements.txt">requirements.txt</a> for all the python module need to execute the website.
 * To open the webpage, run the run.py python file.
 * Then hold the ctrl key and click on the link given in the output to open the webpage
 
-## ⚙️ Applications
->As each and every person  wants things to happen faster ,and  dont want to waste valuable time
->in such situation our Music Mania is time saver for those users for dowloading different application for tracker or to calculate calories burned
-
 ## 🔮Future Scope
->for making it more  flexible  ,we are planning to add below fetures in future 
-* calorie burn counter
-* To give access of  setting a fix distance(planed distance)
-* history of disance covered (in graph format )
+>For making it more flexible,we are planning to add below fetures in future 
+* Calorie burn counter
+* To give access of setting a fix distance (Planned distance)
+* History of disance covered (In graph format )
 
 ## 📱 Screenshots and Recording
 > Drive link :
