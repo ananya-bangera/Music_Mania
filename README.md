@@ -66,8 +66,8 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
      <td><b> Top Artists </b></td>
   </tr>
   <tr>
-    <td><img src = "images/HomePage.png" width = 200></td>
-    <td><img src = "images/TopArtists.png" width = 200></td>
+    <td><img src = "images/HomePage.png" width = 500></td>
+    <td><img src = "images/TopArtists.png" width = 500></td>
   </tr>
  </table>
  <br>
@@ -83,7 +83,7 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
     <td><b> Insert Faculty UI </b></td>
   </tr>
   <tr>
-    <td><img src = "images/UploadNotice.jpeg" width = 200></td>
+    <td><img src = "images/UploadNotice.jpeg" width = 500></td>
     <td><img src = "images/UploadImage.jpeg" width = 200></td>
     <td><img src = "images/UploadEbook.jpeg" width = 200></td>
     <td><img src = "images/AddTeacher.jpeg" width = 200></td>
