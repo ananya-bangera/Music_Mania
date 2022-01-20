@@ -56,6 +56,8 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 * history of disance covered (in graph format )
 
 ## 📱 Screenshots and Recording
+
+* Recording: [https://drive.google.com/drive/folders/1YKGWJasp8ExKkRY1fe2elq5lsvGCJt70?usp=sharing]
 <br>
 <b>Home Page UI</b>
  <br>
