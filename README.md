@@ -26,11 +26,13 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 
 1. HTML
 2. CSS
-3. Tailwind css 
-4. Java script 
-5. Python Flask(Backend)
+3. Tailwind CSS 
+4. JavaScript 
+5. Python 
+6. Flask
+7. Spotify API
 
-## Progress
+## Project Setup
 
 - [x] Frontend Work
 - [x] Distance Tracker Api
@@ -55,5 +57,39 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 * history of disance covered (in graph format )
 
 ## Screenshots
+<br>
+<b>Home Page UI</b>
+ <br>
+<table>
+  <tr>
+    <td><b> Home Page Search section </b></td>
+     <td><b> Top Artists </b></td>
+  </tr>
+  <tr>
+    <td><img src = "images/HomePage.png" width = 200></td>
+    <td><img src = "images/TopArtists.png" width = 200></td>
+  </tr>
+ </table>
+ <br>
+
+<br>
+<b>Home Page UI</b>
+ <br>
+<table>
+  <tr>
+    <td><b> Home Page Search section </b></td>
+     <td><b> Upload Event Images UI </b></td>
+     <td><b> Upload Ebook UI </b></td>
+    <td><b> Insert Faculty UI </b></td>
+  </tr>
+  <tr>
+    <td><img src = "images/UploadNotice.jpeg" width = 200></td>
+    <td><img src = "images/UploadImage.jpeg" width = 200></td>
+    <td><img src = "images/UploadEbook.jpeg" width = 200></td>
+    <td><img src = "images/AddTeacher.jpeg" width = 200></td>
+  </tr>
+ </table>
+ <br>
+
 
 * screenshots drive link: [https://drive.google.com/drive/u/0/folders/1nnR9YUIvYQy22t1vNMwIb-wKFngH_Jl0] 
