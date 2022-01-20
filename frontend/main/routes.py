@@ -67,6 +67,10 @@ def media_player():
 def contact():
     return render_template('contact.html', title='Contact Us')
 
+@main.route("/thanks")
+def thanks():
+    return render_template('thanks.html', title='Thank You')
+
 @main.route("/feedback")
 def feedback():
     return render_template('feedback.html', title='Feedback')

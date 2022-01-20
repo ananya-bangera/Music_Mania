@@ -15,11 +15,11 @@
             <div class="py-1 flex flex-wrap text-center" style="user-select: auto">
                 {% for det in Album_details.values() %}
                 <div class="lg:w-1/6 md:w-1/3 p-4 w-full" style="user-select: auto"  data-aos="zoom-in"  data-aos-once="true"   data-aos-offset="180"   data-aos-delay="0"   data-aos-duration="3000">
-                    <a class="block relative h-48 rounded overflow-hidden" style="user-select: auto">
+                    <a id="hvr_eff" class="block relative h-48 rounded overflow-hidden" style="user-select: auto" href="{{url_for('main.tracks', name=name,album_name=det[0][0])}}">
                         <img alt="ecommerce" class="object-cover object-center w-full h-full blo rounded-3xl"
                             src="{{det[0][1][0]['url']}}" style="user-select: auto" />
                     </a>
-                    <div class="mt-1" style="user-select: auto">
+                    <div id="hvr_eff" class="mt-1" style="user-select: auto">
                         <h2 class="text-white title-font text-lg font-medium" style="user-select: auto">
                             <a style="font-size: small;" href="{{url_for('main.tracks', name=name,album_name=det[0][0])}}">{{det[0][0]}}</a>
                         </h2>
