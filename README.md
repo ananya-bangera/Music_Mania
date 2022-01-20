@@ -33,12 +33,8 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 
 
 ## Project Setup
-
-- [x] Frontend Work
-- [x] Distance Tracker Api
-- [x] backend code of (Sign-up,login ,register) 
-- [ ] Spotify API( working.....)
-- [ ] some part of responsive design 
+1. abc
+2. 
 
 
 ## Usage
