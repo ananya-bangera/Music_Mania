@@ -1,8 +1,7 @@
 # Music Mania
 
 ### TEAM NAME : &lt;Dcode&gt;
-
-## Team members
+## 👨‍💻Contributors
 * Ananya Bangera - agbangera_b20@ce.vjti.ac.in
 * Akash Sable - acsable_b20@it.vjti.ac.in
 * Pratham Loya - prloya_b20@it.vjti.ac.in
