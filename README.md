@@ -78,11 +78,11 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 <table>
   <tr>
     <td><b> About Us UI </b></td>
-     <td><b> Feedback UI </b></td>
+     <td><b> Contact Us UI </b></td>
   </tr>
   <tr>
     <td><img src = "images/AboutUs.png" width = 500></td>
-    <td><img src = "images/FeedBack.png" width = 500></td>
+    <td><img src = "images/ContactUs.png" width = 500></td>
   </tr>
  </table>
  <br>
@@ -92,16 +92,13 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
  <br>
 <table>
   <tr>
-    <td><b> About Us UI </b></td>
-     <td><b> Upload Event Images UI </b></td>
-     <td><b> Upload Ebook UI </b></td>
-    <td><b> Insert Faculty UI </b></td>
+    <td><b> FeedBack UI </b></td>
+     <td><b> Tracker UI </b></td>
   </tr>
   <tr>
-    <td><img src = "images/AboutUs.png" width = 500></td>
-    <td><img src = "images/UploadImage.jpeg" width = 500></td>
-    <td><img src = "images/UploadEbook.jpeg" width = 200></td>
-    <td><img src = "images/AddTeacher.jpeg" width = 200></td>
+    <td><img src = "images/FeedBack.png" width = 500></td>
+    <td><img src = "images/Tracker.png" width = 500></td>
+
   </tr>
  </table>
  <br>
