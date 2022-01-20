@@ -66,7 +66,7 @@
 
 ## 📱 Screenshots and Recording
 > Drive link :
-<a href="https://drive.google.com/drive/folders/1YKGWJasp8ExKkRY1fe2elq5lsvGCJt70?usp=sharing"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504719.png?token=exp=1642689235~hmac=481af07d012eec3ccf437fe29c393b82" alt="Drive" width="31px" height="25px"></a>
+<a href="https://drive.google.com/drive/folders/1YKGWJasp8ExKkRY1fe2elq5lsvGCJt70?usp=sharing"><img src="images/Drive.png" alt="Drive" width="31px" height="25px"></a>
 <br>
 <b>Home Page UI</b>
  <br>
