@@ -11,7 +11,7 @@
 * Rakesh Rajpurohit
 * Devayani Shivankar 
 
-## Description
+## 📝Description
 Music Mania is a specially designed web page which assists music player featured with distance measuring system.Music mania is highly prefered to those who loves to listen songs during  jogging ,walking. users also have provided with the instant distance tracker inbuilt in it.
 iterface of the player is user friendly so anyone can easly get ,what they need.As the signup is must, the  data provide by user also be secure
 * Songs are fetch by using SPOTIFY API 
@@ -24,13 +24,13 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 
 ## Technology stack
 
-1. HTML
-2. CSS
-3. Tailwind CSS 
-4. JavaScript 
-5. Python 
-6. Flask
-7. Spotify API
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="31px" height="31px"></a>
+<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="31px" height="31px"></a>
+<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="31px" height="31px"></a>
+<a href="https://tailwindcss.com/" title="Tailwind"><img src="https://github.com/get-icon/geticon/blob/master/icons/tailwindcss-icon.svg" alt="Tailwind" width="31px" height="31px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="31px" height="31px"></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" title="Flask"><img src="https://github.com/get-icon/geticon/blob/master/icons/flask.svg" alt="Flask" width="31px" height="31px"></a>
+
 
 ## Project Setup
 
@@ -145,6 +145,3 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
  </table>
  <br>
  
- 
-
-* screenshots drive link: [https://drive.google.com/drive/u/0/folders/1nnR9YUIvYQy22t1vNMwIb-wKFngH_Jl0] 
