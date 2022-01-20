@@ -112,7 +112,7 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
   </tr>
   <tr>
     <td><img src = "images/Register.png" width = 500></td>
-    <td><img src = "images/Login.png" width = 500></td>
+    <td><img src = "images/LoginPage.png" width = 500></td>
 
   </tr>
  </table>
@@ -138,14 +138,14 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
  <br>
 <table>
   <tr>
-    <td><b> About Us UI </b></td>
-     <td><b> Upload Event Images UI </b></td>
+    <td><b> Albums UI </b></td>
+     <td><b> Tracks UI </b></td>
      <td><b> Upload Ebook UI </b></td>
     <td><b> Insert Faculty UI </b></td>
   </tr>
   <tr>
-    <td><img src = "images/AboutUs.png" width = 500></td>
-    <td><img src = "images/UploadImage.jpeg" width = 500></td>
+    <td><img src = "images/Albums.png" width = 500></td>
+    <td><img src = "images/Tracks.png" width = 500></td>
     <td><img src = "images/UploadEbook.jpeg" width = 200></td>
     <td><img src = "images/AddTeacher.jpeg" width = 200></td>
   </tr>
