@@ -66,7 +66,7 @@
 
 ## 📱 Screenshots and Recording
 > Drive link :
-<a href="https://drive.google.com/drive/folders/1YKGWJasp8ExKkRY1fe2elq5lsvGCJt70?usp=sharing"><img src="images/Drive.png" alt="Drive" width="31px" height="25px"></a>
+<a href="https://drive.google.com/drive/folders/1YKGWJasp8ExKkRY1fe2elq5lsvGCJt70?usp=sharing"><img src="https://github.com/ananya-bangera/Music_Mania/blob/main/images/drive.jpeg" alt="Drive" width="31px" height="25px"></a>
 <br>
 <b>Home Page UI</b>
  <br>
