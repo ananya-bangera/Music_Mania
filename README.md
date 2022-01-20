@@ -4,7 +4,7 @@
 <br>
 <table align="center">
   <tr>
-    <td><img src = "images/imgs.png"  height =190 width = 600></td>
+    <td><img src = "https://github.com/ananya-bangera/Music_Mania/blob/main/images/imgs.png"  height =190 width = 600></td>
   </tr>
  </table>
  <br>
@@ -32,11 +32,11 @@
 
 ## 🤖Tech-Stack
 
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="31px" height="31px" ></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="31px" height="31px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="31px" height="31px"></a>
 <a href="https://tailwindcss.com/" title="Tailwind"><img src="https://github.com/get-icon/geticon/blob/master/icons/tailwindcss-icon.svg" alt="Tailwind" width="31px" height="31px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="31px" height="31px"></a>
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="31px" height="31px" ></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" title="Flask"><img src="https://github.com/get-icon/geticon/blob/master/icons/flask.svg" alt="Flask" width="31px" height="31px"></a>
 
 
@@ -76,8 +76,8 @@
      <td><b> Top Artists </b></td>
   </tr>
   <tr>
-    <td><img src = "images/HomePage.png" width = 700></td>
-    <td><img src = "images/TopArtists.png" width = 700></td>
+    <td><img src = "https://github.com/ananya-bangera/Music_Mania/blob/main/images/HomePage.png" width = 700></td>
+    <td><img src = "https://github.com/ananya-bangera/Music_Mania/blob/main/images/TopArtists.png" width = 700></td>
   </tr>
  </table>
  <br>
@@ -91,8 +91,8 @@
      <td><b>FeedBack UI </b></td>
   </tr>
   <tr>
-    <td><img src = "images/AboutUs.png" width = 500></td>
-    <td><img src = "images/FeedBack.png" width = 500></td>
+    <td><img src = "https://github.com/ananya-bangera/Music_Mania/blob/main/images/AboutUs.png" width = 500></td>
+    <td><img src = "https://github.com/ananya-bangera/Music_Mania/blob/main/images/FeedBack.png" width = 500></td>
   </tr>
  </table>
  <br>
@@ -105,7 +105,7 @@
      <td><b> Tracker UI </b></td>
   </tr>
   <tr>
-    <td><img src = "images/Tracker.png" width = 500></td>
+    <td><img src = "https://github.com/ananya-bangera/Music_Mania/blob/main/images/Tracker.png" width = 500></td>
 
   </tr>
  </table>
@@ -119,8 +119,8 @@
      <td><b> Login Page UI </b></td>
   </tr>
   <tr>
-    <td><img src = "images/Register.png" width = 500></td>
-    <td><img src = "images/LoginPage.png" width = 500></td>
+    <td><img src = "https://github.com/ananya-bangera/Music_Mania/blob/main/images/Register.png" width = 500></td>
+    <td><img src = "https://github.com/ananya-bangera/Music_Mania/blob/main/images/LoginPage.png" width = 500></td>
 
   </tr>
  </table>
@@ -135,9 +135,9 @@
      <td><b> Change Password  UI </b></td>
   </tr>
   <tr>
-    <td><img src = "images/ResetPassword.png" width = 500></td>
-    <td><img src = "images/Email.png" width = 500></td>
-    <td><img src = "images/PasswordReset.png" width = 500></td>
+    <td><img src = "https://github.com/ananya-bangera/Music_Mania/blob/main/images/ResetPassword.png" width = 500></td>
+    <td><img src = "https://github.com/ananya-bangera/Music_Mania/blob/main/images/Email.png" width = 500></td>
+    <td><img src = "https://github.com/ananya-bangera/Music_Mania/blob/main/images/PasswordReset.png" width = 500></td>
   </tr>
  </table>
  <br>
@@ -150,8 +150,8 @@
    <td><b> Media Player UI </b></td>
   </tr>
   <tr>
-    <td><img src = "images/Albums.png" width = 500></td>
-    <td><img src = "images/MediaPlayer.png" width = 500></td>
+    <td><img src = "https://github.com/ananya-bangera/Music_Mania/blob/main/images/Albums.png" width = 500></td>
+    <td><img src = "https://github.com/ananya-bangera/Music_Mania/blob/main/images/MediaPlayer.png" width = 500></td>
   </tr>
  </table>
  <br>
