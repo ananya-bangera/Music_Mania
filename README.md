@@ -19,7 +19,7 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 
 ## 🔗Links
 * GitHub repo link: [(https://github.com/ananya-bangera/Music_Mania.git)]
-* Drive link: [https://drive.google.com/drive/u/0/folders/1nnR9YUIvYQy22t1vNMwIb-wKFngH_Jl0]
+* Drive link: [https://drive.google.com/drive/folders/1YKGWJasp8ExKkRY1fe2elq5lsvGCJt70?usp=sharing]
 * Website link: [Website link here] 
 
 ## 🤖Tech-Stack
