@@ -43,7 +43,7 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 
 ## Usage
 >To open webpage ,we need to run python file named as (run.py)
->Then to use link provided in output to open webpage(ctrl+l-click)
+>Then to use link provided in output to open webpage(ctrl+click)
 
 ## Applications
 >As each and every person  wants things to happen faster ,and  dont want to waste valuable time
