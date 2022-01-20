@@ -103,6 +103,37 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
  </table>
  <br>
  <br>
+<b> User Credentials</b>
+ <br>
+<table>
+  <tr>
+    <td><b> Register Page UI </b></td>
+     <td><b> Login Page UI </b></td>
+  </tr>
+  <tr>
+    <td><img src = "images/Register.png" width = 500></td>
+    <td><img src = "images/Login.png" width = 500></td>
+
+  </tr>
+ </table>
+ <br>
+ <br>
+<b>User Credentials</b>
+ <br>
+<table>
+  <tr>
+    <td><b> Reset Password UI </b></td>
+     <td><b> Email </b></td>
+     <td><b> Change Password  UI </b></td>
+  </tr>
+  <tr>
+    <td><img src = "images/ResetPassword.png" width = 500></td>
+    <td><img src = "images/Email.png" width = 500></td>
+    <td><img src = "images/PasswordReset.png" width = 500></td>
+  </tr>
+ </table>
+ <br>
+  <br>
 <b></b>
  <br>
 <table>
@@ -120,6 +151,23 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
   </tr>
  </table>
  <br>
-
+  <br>
+<b></b>
+ <br>
+<table>
+  <tr>
+    <td><b> About Us UI </b></td>
+     <td><b> Upload Event Images UI </b></td>
+     <td><b> Upload Ebook UI </b></td>
+    <td><b> Insert Faculty UI </b></td>
+  </tr>
+  <tr>
+    <td><img src = "images/AboutUs.png" width = 500></td>
+    <td><img src = "images/UploadImage.jpeg" width = 500></td>
+    <td><img src = "images/UploadEbook.jpeg" width = 200></td>
+    <td><img src = "images/AddTeacher.jpeg" width = 200></td>
+  </tr>
+ </table>
+ <br>
 
 * screenshots drive link: [https://drive.google.com/drive/u/0/folders/1nnR9YUIvYQy22t1vNMwIb-wKFngH_Jl0] 
