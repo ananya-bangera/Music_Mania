@@ -55,7 +55,7 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 * To give access of  setting a fix distance(planed distance)
 * history of disance covered (in graph format )
 
-## 📱 Screenshots
+## 📱 Screenshots and Recording
 <br>
 <b>Home Page UI</b>
  <br>
