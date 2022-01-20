@@ -22,7 +22,7 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 * Drive link: [https://drive.google.com/drive/u/0/folders/1nnR9YUIvYQy22t1vNMwIb-wKFngH_Jl0]
 * Website link: [Website link here] 
 
-## Technology stack
+## 🤖Tech-Stack
 
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="31px" height="31px" ></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="31px" height="31px"></a>
@@ -32,7 +32,7 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 <a href="https://flask.palletsprojects.com/en/2.0.x/" title="Flask"><img src="https://github.com/get-icon/geticon/blob/master/icons/flask.svg" alt="Flask" width="31px" height="31px"></a>
 
 
-## Project Setup
+## 🖥️ Project Setup
 
 - [x] Frontend Work
 - [x] Distance Tracker Api
@@ -41,11 +41,11 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 - [ ] some part of responsive design 
 
 
-## Usage
+## 🔧 Usage
 >To open webpage ,we need to run python file named as (run.py)
 >Then to use link provided in output to open webpage(ctrl+l-click)
 
-## Applications
+## ⚙️ Applications
 >As each and every person  wants things to happen faster ,and  dont want to waste valuable time
 >in such situation our Music Mania is time saver for those users for dowloading different application for tracker or to calculate calories burned
 
@@ -55,7 +55,7 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 * To give access of  setting a fix distance(planed distance)
 * history of disance covered (in graph format )
 
-## Screenshots
+## 📱 Screenshots
 <br>
 <b>Home Page UI</b>
  <br>
