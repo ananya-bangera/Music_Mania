@@ -49,14 +49,13 @@
 * Then hold the ctrl key and click on the link given in the output to open the webpage
 
 ## 🔮Future Scope
->For making it more flexible,we are planning to add below fetures in future 
+For making it more flexible,we are planning to add below fetures in future 
 * Calorie burn counter
 * To give access of setting a fix distance (Planned distance)
 * History of disance covered (In graph format )
 
 ## 📱 Screenshots and Recording
-* Drive link :
-<a href="https://drive.google.com/drive/folders/1YKGWJasp8ExKkRY1fe2elq5lsvGCJt70?usp=sharing"><img src="https://github.com/ananya-bangera/Music_Mania/blob/main/images/drive.jpeg" alt="Drive" width="31px" height="25px"></a>
+<a href="https://drive.google.com/drive/folders/1YKGWJasp8ExKkRY1fe2elq5lsvGCJt70?usp=sharing">Drive link</a>
 <br>
 <b>Home Page UI</b>
  <br>
