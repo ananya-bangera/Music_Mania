@@ -1,7 +1,8 @@
 # Music Mania
 
 ### TEAM NAME : &lt;Dcode&gt;
-## 👨‍💻Contributors
+<img src="" alt="Python" width="31px" height="31px" >
+##  👨‍💻Contributors
 * Ananya Bangera - agbangera_b20@ce.vjti.ac.in
 * Akash Sable - acsable_b20@it.vjti.ac.in
 * Pratham Loya - prloya_b20@it.vjti.ac.in
@@ -12,10 +13,10 @@
 * Devayani Shivankar 
 
 ## 📝Description
-Music Mania is a specially designed web page which assists music player featured with distance measuring system.Music mania is highly prefered to those who loves to listen songs during  jogging ,walking. users also have provided with the instant distance tracker inbuilt in it.
-iterface of the player is user friendly so anyone can easly get ,what they need.As the signup is must, the  data provide by user also be secure
+Music Mania is a specially designed web page that assists music players featured with a distance measuring system.
+Music mania is highly preferred to those who love to listen to songs during jogging walking.
+Users also have provided the instant distance tracker inbuilt in it. The player's interface is user-friendly, so anyone can quickly get what they need. 
 * Songs are fetch by using SPOTIFY API 
-* There are all options too like(recent played song , playlist,collection ) in it 
 
 ## 🔗Links
 * GitHub repo link: [(https://github.com/ananya-bangera/Music_Mania.git)]
@@ -56,8 +57,8 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 * history of disance covered (in graph format )
 
 ## 📱 Screenshots and Recording
-
-* Recording: [https://drive.google.com/drive/folders/1YKGWJasp8ExKkRY1fe2elq5lsvGCJt70?usp=sharing]
+> Drive link :
+<a href="https://drive.google.com/drive/folders/1YKGWJasp8ExKkRY1fe2elq5lsvGCJt70?usp=sharing"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504719.png?token=exp=1642689235~hmac=481af07d012eec3ccf437fe29c393b82" alt="Drive" width="31px" height="25px"></a>
 <br>
 <b>Home Page UI</b>
  <br>
