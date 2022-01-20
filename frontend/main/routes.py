@@ -101,7 +101,7 @@ def songsList(name,album_name,songInfo):
     val=fetchAlbum(album_name,Album_details)
     allMusic= musiclist(name,Album_details,val)
     songNum=fetchTrack(songInfo,allMusic)
-    return render_template('media_player.html', title='Albums',songNum=songNum,album_name=album_name,name=name,val=val,allMusic=allMusic)
+    return render_template('media_player.html', title='Media Player',songNum=songNum,album_name=album_name,name=name,val=val,allMusic=allMusic)
 
 @main.route("/wish/<name>/<songName>/<path:img_info>/<path:srcSong>/<int:data>/<int:eachsongNum>", methods=['GET', 'POST'])
 def wish(name,songName,img_info,srcSong,data,eachsongNum):
@@ -122,7 +122,7 @@ def wish(name,songName,img_info,srcSong,data,eachsongNum):
     allMusic.append(d1)
     # print(allMusic)
     # print('This is error output', file=sys.stderr)
-    return render_template('media_player.html', title='Albums',songNum=0,allMusic=allMusic)
+    return render_template('media_player.html', title='Media Player',songNum=0,allMusic=allMusic)
 
 # =========> uri routes
 def Artist(name):
