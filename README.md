@@ -137,11 +137,11 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 <table>
   <tr>
     <td><b> Albums UI </b></td>
-
+   <td><b> Media Player UI </b></td>
   </tr>
   <tr>
     <td><img src = "images/Albums.png" width = 500></td>
-  
+    <td><img src = "images/MediaPlayer.png" width = 500></td>
   </tr>
  </table>
  <br>
