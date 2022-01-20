@@ -7,7 +7,7 @@
 * Pratham Loya - prloya_b20@it.vjti.ac.in
 * Pramod Dhaygude- pcdhaygude_b20@it.vjti.ac.in
 
-## Mentors
+ ## 👨‍🏫Mentors
 * Rakesh Rajpurohit
 * Devayani Shivankar 
 
@@ -17,6 +17,7 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 * Songs are fetch by using SPOTIFY API 
 * There are all options too like(recent played song , playlist,collection ) in it 
 
+## 🔗Links
 * GitHub repo link: [(https://github.com/ananya-bangera/Music_Mania.git)]
 * Drive link: [https://drive.google.com/drive/u/0/folders/1nnR9YUIvYQy22t1vNMwIb-wKFngH_Jl0]
 * Website link: [Website link here] 
@@ -48,8 +49,7 @@ iterface of the player is user friendly so anyone can easly get ,what they need.
 >As each and every person  wants things to happen faster ,and  dont want to waste valuable time
 >in such situation our Music Mania is time saver for those users for dowloading different application for tracker or to calculate calories burned
 
-
-## Future scope
+## 🔮Future Scope
 >for making it more  flexible  ,we are planning to add below fetures in future 
 * calorie burn counter
 * To give access of  setting a fix distance(planed distance)
