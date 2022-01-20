@@ -1,7 +1,14 @@
 # Music Mania
 
-### TEAM NAME : &lt;Dcode&gt;
-<img src="" alt="Python" width="31px" height="31px" >
+### TEAM NAME : 
+<br>
+<table align="center">
+  <tr>
+    <td><img src = "images/imgs.png"  height =190 width = 600></td>
+  </tr>
+ </table>
+ <br>
+
 ##  👨‍💻Contributors
 * Ananya Bangera - agbangera_b20@ce.vjti.ac.in
 * Akash Sable - acsable_b20@it.vjti.ac.in
@@ -43,8 +50,9 @@ Users also have provided the instant distance tracker inbuilt in it. The player'
 
 
 ## 🔧 Usage
->To open webpage ,we need to run python file named as (run.py)
->Then to use link provided in output to open webpage(ctrl+l-click)
+>Refer to requirements.txt for all the python module need to execute the website
+>To open the webpage, run the run.py python file.
+Then hold the ctrl key and click on the link given in the output to open the webpage
 
 ## ⚙️ Applications
 >As each and every person  wants things to happen faster ,and  dont want to waste valuable time
