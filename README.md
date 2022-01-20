@@ -28,7 +28,7 @@
 ## 🔗Links
 
 * GitHub repo : [<a href="https://github.com/ananya-bangera/Music_Mania.git">Click here </a>]
-* Drive: [<a href="https://drive.google.com/drive/folders/1YKGWJasp8ExKkRY1fe2elq5lsvGCJt70?usp=sharing">Click here </a>]
+* Drive : [<a href="https://drive.google.com/drive/folders/1YKGWJasp8ExKkRY1fe2elq5lsvGCJt70?usp=sharing">Click here </a>]
 <!-- * Website link: [Website link here]  -->
 
 ## 🤖Tech-Stack
