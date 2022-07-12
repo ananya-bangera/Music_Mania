@@ -19,7 +19,8 @@
 - [📰Description](#description)
 - [🔗Resources](#resources)
 - [🤖Tech-Stack](#tech-stack)
-- [📈Progress](#progress)
+- [🖥️Project Setup](#project-setup)
+- [🔧Usage](#usage)
 - [🔮Future Scope](#future-scope)
 - [👨‍💻Contributors](#contributors)
 - [👨‍🏫Acknowledgement](#acknowledgement)
@@ -39,10 +40,18 @@
 
 
 ## 📝Description
-* Music Mania is a specially designed web page that assists music players featured with a distance measuring system.
-* Music mania is highly preferred to those who love to listen to songs during jogging and walking.
-* Users also have provided the instant distance tracker inbuilt in it. The player's interface is user-friendly, so anyone can quickly get what they need. 
-* Songs are fetch by using SPOTIFY API 
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li> Music Mania is a specially designed web page that assists music players featured with a distance measuring system.
+        <li> Music mania is highly preferred to those who love to listen to songs during jogging and walking.
+        <li> Users also have provided the instant distance tracker inbuilt in it. The player's interface is user-friendly, so anyone can quickly get what they need. 
+        <li> Songs are fetch by using SPOTIFY API 
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🔗Resources
 
@@ -60,10 +69,10 @@
 <a href="https://flask.palletsprojects.com/en/2.0.x/" title="Flask"><img src="https://github.com/get-icon/geticon/blob/master/icons/flask.svg" alt="Flask" width="31px" height="31px"></a>
 
 
-## 🖥️ Project Setup
+## 🖥️Project Setup
 * Refer to <a href="https://github.com/ananya-bangera/Music_Mania/blob/main/requirements.txt">requirements.txt</a> for all the python module need to execute the website.
 
-## 🔧 Usage
+## 🔧Usage
 * To open the webpage, run the run.py python file.
 * Then hold the ctrl key and click on the link given in the output to open the webpage
 
@@ -83,8 +92,7 @@ For making it more flexible,we are planning to add below fetures in future
 * Rakesh Rajpurohit
 * Devayani Shivankar 
 
-## 📱 Screenshots and Recording
-<a href="https://drive.google.com/drive/folders/1YKGWJasp8ExKkRY1fe2elq5lsvGCJt70?usp=sharing">Drive link</a>
+## 📱Screenshots
 <br>
 <b>Home Page UI</b>
  <br>
