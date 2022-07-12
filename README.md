@@ -1,6 +1,33 @@
-# Music Mania
+# 
+<h1 align="center">
+  <a href="https://github.com/ananya-bangera/Msft-project">
+    <img src="https://previews.123rf.com/images/mnaufal/mnaufal1902/mnaufal190200201/117697442-workout-music-playlist-icon-music-player-with-dumbbell-symbol-for-listening-song-in-the-gym-illustra.jpg" width="150" height="150">
+  </a>
+  <br>
+  Music Mania 🎵
+</h1>
 
-### TEAM NAME : 
+<div align="center">
+  A <strong>platform</strong> for the <strong>Fitness Fanatic and Melophiles</strong><br>
+  <img src="https://img.shields.io/github/stars/ananya-bangera/Msft-project?color=green&style=for-the-badge">
+</div>
+<hr>
+
+<details>
+<summary>Table of Contents</summary>
+
+- [📰Description](#description)
+- [🔗Resources](#resources)
+- [🤖Tech-Stack](#tech-stack)
+- [📈Progress](#progress)
+- [🔮Future Scope](#future-scope)
+- [👨‍💻Contributors](#contributors)
+- [👨‍🏫Acknowledgement](#acknowledgement)
+- [📱Screenshots](#screenshots)
+
+</details>
+
+## TEAM NAME : 
 <br>
 <table align="center">
   <tr>
@@ -9,15 +36,7 @@
  </table>
  <br>
 
-##  👨‍💻Contributors
-* Ananya Bangera - agbangera_b20@ce.vjti.ac.in
-* Akash Sable - acsable_b20@it.vjti.ac.in
-* Pratham Loya - prloya_b20@it.vjti.ac.in
-* Pramod Dhaygude- pcdhaygude_b20@it.vjti.ac.in
 
- ## 👨‍🏫Mentors
-* Rakesh Rajpurohit
-* Devayani Shivankar 
 
 ## 📝Description
 * Music Mania is a specially designed web page that assists music players featured with a distance measuring system.
@@ -25,10 +44,10 @@
 * Users also have provided the instant distance tracker inbuilt in it. The player's interface is user-friendly, so anyone can quickly get what they need. 
 * Songs are fetch by using SPOTIFY API 
 
-## 🔗Links
+## 🔗Resources
 
-* GitHub repo : [<a href="https://github.com/ananya-bangera/Music_Mania.git">Click here </a>]
-* Drive : [<a href="https://drive.google.com/drive/folders/1YKGWJasp8ExKkRY1fe2elq5lsvGCJt70?usp=sharing">Click here </a>]
+- [GitHub Repository](https://github.com/ananya-bangera/Music_Mania.git)
+- [Drive](https://drive.google.com/drive/folders/1YKGWJasp8ExKkRY1fe2elq5lsvGCJt70?usp=sharing)
 <!-- * Website link: [Website link here]  -->
 
 ## 🤖Tech-Stack
@@ -53,6 +72,16 @@ For making it more flexible,we are planning to add below fetures in future
 * Calorie burn counter
 * To give access of setting a fix distance (Planned distance)
 * History of disance covered (In graph format )
+
+##  👨‍💻Contributors
+* Ananya Bangera - agbangera_b20@ce.vjti.ac.in
+* Akash Sable - acsable_b20@it.vjti.ac.in
+* Pratham Loya - prloya_b20@it.vjti.ac.in
+* Pramod Dhaygude- pcdhaygude_b20@it.vjti.ac.in
+
+ ## 👨‍🏫Acknowledgement
+* Rakesh Rajpurohit
+* Devayani Shivankar 
 
 ## 📱 Screenshots and Recording
 <a href="https://drive.google.com/drive/folders/1YKGWJasp8ExKkRY1fe2elq5lsvGCJt70?usp=sharing">Drive link</a>
